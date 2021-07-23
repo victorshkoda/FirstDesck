@@ -1,0 +1,2 @@
+rootProject.name = "FirstDesck"
+include ':app'
